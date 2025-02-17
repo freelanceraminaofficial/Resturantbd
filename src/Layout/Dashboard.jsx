@@ -104,7 +104,7 @@ const Dashboard = () => {
           <li>
             <NavLink to="/dashboard/contact">
               <FaEnvelope></FaEnvelope>
-              Menu
+              contact
             </NavLink>
           </li>
         </ul>
